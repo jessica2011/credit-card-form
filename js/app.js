@@ -1,5 +1,4 @@
 $(document).ready(function() {
-  
   console.log('Probar con el numero valido 4544164785372342');      
   
   // Declaramos las variables que vamos a utilizar
@@ -73,3 +72,4 @@ $(document).ready(function() {
     }
   }
 });
+
